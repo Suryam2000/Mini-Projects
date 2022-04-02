@@ -1,0 +1,10 @@
+#box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 7rem;
+    height: 7rem;
+    border: 2px solid black;
+    background-color: aqua;
+}
